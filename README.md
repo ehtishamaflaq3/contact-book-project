@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Ehtisham Aflak</h1>
+<h3 align="center">A Passionate Software Engineer From Pakistan</h3>
 # Contact Book in Python
 This is a beginner-friendly **Contact Book project** written in Python. It allows you to **add**, **view**, **search**, **delete**, and **save contacts** to a text file.
 ---
@@ -13,8 +15,7 @@ This is a beginner-friendly **Contact Book project** written in Python. It allow
   - `"NAME"`: Contact Name
   - `"CONTACT"`: Phone Number
 - You can interact with the program using a simple **menu-driven interface**
-<h1 align="center">Hi 👋, I'm Ehtisham Aflak</h1>
-<h3 align="center">A Passionate Software Engineer From Pakistan</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehtishamaflaq3&label=Profile%20views&color=0e75b6&style=flat" alt="ehtishamaflaq3" /> </p>
 

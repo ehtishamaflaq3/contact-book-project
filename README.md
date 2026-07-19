@@ -1,6 +1,7 @@
 # Contact Book in Python
+
 This is a beginner-friendly **Contact Book project** written in Python. It allows you to **add**, **view**, **search**, **delete**, and **save contacts** to a text file.
----
+
 ## Features
 - Add a new contact (Name + Number)
 - View all saved contacts in a beautiful table format
@@ -14,8 +15,7 @@ This is a beginner-friendly **Contact Book project** written in Python. It allow
   - `"CONTACT"`: Phone Number
 - You can interact with the program using a simple **menu-driven interface**
 
-
-- 👯 I’m looking to collaborate on **contact book project**
+   I’m looking to collaborate on **contact book project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
